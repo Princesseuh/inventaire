@@ -165,6 +165,7 @@ class Inventory:
                     return
 
     @commands.command(aliases=["d"])
+    @commands.is_owner()
     async def debug(self, ctx):
         items = await self.get_inventory()
         users = await self.get_users()
