@@ -1,0 +1,6 @@
+**/__pycache__
+client.log
+account
+.vscode/
+database.db
+logs/
