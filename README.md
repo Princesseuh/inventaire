@@ -14,7 +14,7 @@ The starting inventory had `x4 Potions`, `x4 Épées` (Swords) and `x3 Boucliers
 
 Here's the end inventory :
 
-- `x2 Potions` added by `Rika` and removed by `mat_rpg` and Nev`
+- `x2 Potions` added by `Rika` and removed by `mat_rpg` and `Nev`
 - `x2 Épée` (Sword) added by `mat_rpg` and removed by `Imanor`, `Nighten Dushi` and `Akamentor`
 - `x1 Bonheur` (Happiness) added by `Chester`
 - `x1 Bouclier` (Shield) removed by `Phantou`
